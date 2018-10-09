@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="servlet_login:war exploded2">
+    <output-path>$PROJECT_DIR$/out/artifacts/servlet_login_war_exploded2</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="servlet_login/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="servlet_login" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="G:/java课程/java285_servlet_4/day34_Servlet/代码/day34_servlet_demo3_login/WebContent/WEB-INF/lib/c3p0-0.9.1.2.jar" />
+          <element id="file-copy" path="G:/java课程/java285_servlet_4/day34_Servlet/代码/day34_servlet_demo3_login/WebContent/WEB-INF/lib/commons-dbutils-1.4.jar" />
+          <element id="file-copy" path="G:/java课程/java285_servlet_4/day34_Servlet/代码/day34_servlet_demo3_login/WebContent/WEB-INF/lib/mysql-connector-java-5.0.8-bin.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
